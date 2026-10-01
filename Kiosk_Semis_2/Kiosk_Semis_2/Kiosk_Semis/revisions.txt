@@ -1,0 +1,4 @@
+1. settings - park
+2. add chairs and table for people to sit in while reading books
+3. Top-hinged lift-up service window + support stick (or something similar)
+4. generate a consistent img showing the 360 degrees view of the store since i'll be using it as reference in blender
